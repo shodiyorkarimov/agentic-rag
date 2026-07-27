@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+qdrant_db/
+.DS_Store
